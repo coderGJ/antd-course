@@ -1879,7 +1879,7 @@
     "domexception": "^1.0.1",
     "domhandler": "^2.4.2",
     "domutils": "^1.7.0",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.2.0",
     "dotenv": "^8.2.0",
     "duplexer": "^0.1.1",
     "duplexer3": "^0.1.4",
